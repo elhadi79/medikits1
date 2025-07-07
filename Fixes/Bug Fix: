@@ -1,0 +1,4 @@
+Fix issue with product image not displaying
+
+- Corrected the URL path for fetching product images.
+- Added fallback image for missing product images.
