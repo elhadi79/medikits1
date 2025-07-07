@@ -1,0 +1,5 @@
+Add user authentication via JWT
+
+- Implemented user login functionality.
+- Added JWT token generation and validation.
+- Created middleware for protecting API endpoints.
