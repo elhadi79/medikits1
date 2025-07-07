@@ -1,0 +1,4 @@
+Refactor product service for better readability
+
+- Moved business logic to separate module.
+- Improved error handling for failed API requests.
